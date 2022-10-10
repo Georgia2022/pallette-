@@ -4,5 +4,6 @@ Farbpallette
 Rot 
 Grün 
 Blau 
-sind alles tolle 
+Gelb 
+Sind alles tolle 
 Farben 
